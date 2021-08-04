@@ -1,0 +1,11 @@
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
+data.json
+with-fasl.rkt
+with-hash.rkt
+with-lang.rkt
+with-read-json.rkt
